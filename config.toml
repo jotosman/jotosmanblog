@@ -5,8 +5,8 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "https-jotosman-github-io"
+googleAnalytics = "UA-71711509-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
