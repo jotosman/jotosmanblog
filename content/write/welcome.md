@@ -7,6 +7,7 @@ categories:
 tags:
   - penulisan
 draft: false
+comments: true
 ---
 
 Test ini menjadi blog buatan sendiri yang pertama.
